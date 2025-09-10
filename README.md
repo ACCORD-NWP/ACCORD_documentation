@@ -99,14 +99,19 @@ Go to ACCORD GitHub  and get familiarized with all the common repositories etc
 
 GitHub ACCORD is at:  [https://github.com/ACCORD-NWP](https://github.com/ACCORD-NWP)
 
-General instructions about how to start and signs etc are at
+General instructions about how to start are in the WIKI 
 
 [https://opensource.umr-cnrm.fr/projects/accord/wiki/Forge_and_contribution_instructions](https://opensource.umr-cnrm.fr/projects/accord/wiki/Forge_and_contribution_instructions)
 
-**The repositories in ACCORD NWP GitHub**
+and more in detail: 
 
+https://github.com/ACCORD-NWP/IAL/blob/master/.github/CONTRIBUTING.md
 
-**How to document the Code**
+https://github.com/orgs/ACCORD-NWP/discussions/72
+
+https://github.com/orgs/ACCORD-NWP/discussions/60
+
+and there is a nice Webminar recorded at   https://www.umr-cnrm.fr/accord/IMG/mp4/webinars_accord_forge_davai_with_cy49t1_2_.mp4
 
 
 **Get into the more specific CSC Code and Documentation**
