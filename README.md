@@ -137,3 +137,12 @@ Harmonie-AROME has its own GitHub at [https://github.com/Hirlam](https://github.
  where there is the code installed and also an attached GitHub wiki to explain there many instructions and the documentation attached to the code, that is cycle dependent.
 
 The old Hirlam wiki page is here: [https://hirlam.org/trac/wiki/ACCORD](https://hirlam.org/trac/wiki/ACCORD)
+
+## 4. How to Document the Code in github ACCORD
+
+Here in ACCORD Github there are several repositories where apart of finding the  code related to the topic of the repository,  there is always a **README.md** file. 
+
+That **README.md** should have the detailed description of WHAT it is in the repository and HOW to use it. Please give the best description that is possible to make easy to anyone to use the code there. And please write your email at the end, so anyone that have questions could email you.
+
+Here there are some tips of good practices of documentation:  [https://github.com/openai/openai-cookbook/blob/main/articles/what_makes_documentation_good.md]
+   
